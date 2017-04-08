@@ -43,14 +43,12 @@ nav ul {
   }
 nav li {
   text-align : center;
-  color : #000000;
   display:inline;
   padding : 10px;
   text-decoration : none;
   }
 nav a {
   text-align : center;
-  color : #000000;
   padding : 1%;
   text-decoration : none;
   }
@@ -81,14 +79,12 @@ nav a:hover {
   }
 #social li {
   text-align : center;
-  color : #000000;
   display:inline;
   padding : 0px;
   text-decoration : none;
   }
 #social a {
   text-align : center;
-  color : #000000;
   padding : 0px;
   text-decoration : none;
   }
